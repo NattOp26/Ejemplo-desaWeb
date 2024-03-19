@@ -1,0 +1,43 @@
+li{
+    color:blueviolet;
+}
+p{
+    color: rgb(163, 188, 199);
+    text-align: center;
+    margin-left : 10px;
+    
+}
+
+.lista{
+    color: rgb(246, 247, 250);
+    margin-left : 10px;
+}
+
+.color1{
+    background-color: rgb(10, 181, 233);
+    margin-top: -20px;
+    margin-left: 150px;
+    margin-right: 20px;
+    padding: 12px;
+}
+.color2{
+    background-color: rgb(211, 233, 10);
+    margin-top: -20px;
+    margin-left: 150px;
+    margin-right: 20px;
+    padding: 12px;
+}
+.color3{
+    background-color: rgb(233, 118, 10);
+    margin-top: -20px;
+    margin-left: 150px;
+    margin-right: 20px;
+    padding: 12px;
+}
+.color4{
+    background-color: rgb(224, 39, 39);
+    margin-top: -20px;
+    margin-left: 150px;
+    margin-right: 20px;
+    padding: 12px;
+}
